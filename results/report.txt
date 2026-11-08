@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+        acne      0.000     0.000     0.000         0
+      eczema      0.333     0.111     0.167         9
+      normal      0.000     0.000     0.000         1
+   psoriasis      0.000     0.000     0.000        10
+     rosacea      1.000     0.400     0.571        10
+       tinea      0.000     0.000     0.000         7
+    vitiligo      0.273     0.375     0.316         8
+        wart      0.227     0.455     0.303        11
+
+    accuracy                          0.232        56
+   macro avg      0.229     0.168     0.170        56
+weighted avg      0.316     0.232     0.233        56

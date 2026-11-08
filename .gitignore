@@ -1,0 +1,11 @@
+# Python sanal ortam ve önbellek
+venv/
+__pycache__/
+*.pyc
+
+# macOS gizli dosyaları
+._*
+.DS_Store
+
+# Geçici dosyalar
+tempCodeRunnerFile*
